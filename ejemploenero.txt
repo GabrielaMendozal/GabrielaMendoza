@@ -1,1 +1,18 @@
-git status
+ls ver los archivos carpetas
+pwd indica ubicacion
+cd nombre carpeta, navegar internamente a una carpeta, regresar ubicacion anterior
+mksir nobre de carpeta   crea carpetatouch nombre.extension crear archivo ejm touch ejemplo.txt
+rm nombre archivo elimina archivo
+comando git
+
+git init
+git add archivo / git add .
+git commit -m "actualizando otra vez"
+git remote add origin url del github
+git push -u origin master  /  git push -u origin main
+
+git satuts
+
+git add nombre arcivo.extension
+git commit -m "actualizando otra vez"
+git push
